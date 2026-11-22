@@ -9,8 +9,7 @@ The objective of this project was to develop an interactive sales analytics dash
 
 ## **Dashboard Preview**
 
-<!-- Add your dashboard screenshot here -->
-![Ecommerce Sales Dashboard](dashboard-preview.png)
+![Ecommerce Sales Dashboard](https://raw.githubusercontent.com/MAbdullahAnalytics/Excel---Ecommerce-Sales-Analytics-Dashboard/main/image.png)
 
 ## **Project Overview**
 
